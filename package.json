@@ -1,0 +1,26 @@
+{
+  "name": "demoify",
+  "version": "1.0.0",
+  "description": "A simple editor/webcam/URL launcher for talks and presentations",
+  "main": "main.js",
+  "devDependencies": {
+    "electron": "^5.0.0"
+  },
+  "dependencies": {
+    "monaco-editor": "^0.17.0"
+  },
+  "scripts": {
+    "start": "electron .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/georgemandis/demoify.git"
+  },
+  "author": "George Mandis",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/georgemandis/demoify/issues"
+  },
+  "homepage": "https://github.com/georgemandis/demoify#readme"
+}
